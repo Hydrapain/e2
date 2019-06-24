@@ -1,0 +1,35 @@
+html {
+background: url("espana.jpg") no-repeat;
+background-size: cover;
+}
+
+body {
+background: none;
+
+}
+
+#e1,
+#e2,
+#e3 {
+  color: rgb(140, 12, 245);
+  font-family: Tahoma;
+
+}
+
+#formulario {
+  background-color: #e4c40f;
+  height: 23vh;
+  padding: 2em;
+  border-style: dotted dashed solid double;
+  
+}
+#cabecera {
+  color: #ff0000;
+  padding: 1em;
+  text-align: center;
+
+}
+
+
+/*Autor: Román
+version: 1*/
